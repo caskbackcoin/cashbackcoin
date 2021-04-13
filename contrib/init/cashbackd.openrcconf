@@ -1,0 +1,26 @@
+# /etc/conf.d/cashbackd: config file for /etc/init.d/cashbackd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/cashback/cashback.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/cashbackd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/cashbackd.pid"
+
+# Where to write cashbackd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/cashbackd"
+
+# User and group to own cashbackd process
+#BITCOIND_USER="cashback"
+#BITCOIND_GROUP="cashback"
+
+# Path to cashbackd executable
+#BITCOIND_BIN="/usr/bin/cashbackd"
+
+# Nice value to run cashbackd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,26 @@
+[Unit]
+Description=Caskback's distributed currency daemon
+After=network.target
+
+[Service]
+User=cashback
+Group=cashback
+
+Type=forking
+PIDFile=/var/lib/cashbackd/cashbackd.pid
+
+ExecStart=/usr/bin/cashbackd -daemon -pid=/var/lib/cashbackd/cashbackd.pid \
+          -conf=/etc/cashback/cashback.conf -datadir=/var/lib/cashbackd
+
+ExecStop=-/usr/bin/cashback-cli -conf=/etc/cashback/cashback.conf \
+         -datadir=/var/lib/cashbackd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
