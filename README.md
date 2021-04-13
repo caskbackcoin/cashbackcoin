@@ -17,10 +17,11 @@ Caskback (CASH) integration/staging repository
 |Ticker 				    | `CASH`               |Block Time  			| `1 MINUTE`          |
 |Algorithm					| `Quark`             |Stake Min Age		| `2 HOURS`           |
 |Type 						| `PoS/MN`            |Halving Block  		| `394200`            |
-|Total Suply 			    | `810,000,000 CASH`    |Port 			    | `17773`    		  |
-|Masternode Collateral      | `255,000 CASH`         |Datadir			    | `.cash`			  |
+|Total Suply 			    | `810.000.000 CASH`    |Port 			    | `17773`    		  |
+|Masternode Collateral      | `250.000 CASH`         |Datadir			    | `.cash`			  |
 
 <p align="center"><img src="https://newcashbackcoin.com/img/blocks.jpg" /></a></p>
+<p align="center">* blockchain validators/investors (Masternodes) 250.000 CASH</p>
 
 Add nodes
 ======================
