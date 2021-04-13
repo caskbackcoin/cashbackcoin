@@ -17,8 +17,8 @@ Caskback (CASH) integration/staging repository
 |Ticker 				    | `CASH`               |Block Time  			| `1 MINUTE`          |
 |Algorithm					| `Quark`             |Stake Min Age		| `2 HOURS`           |
 |Type 						| `PoS/MN`            |Halving Block  		| `394200`            |
-|Total Suply 			    | `18,000,000 CASH`    |Port 			    | `17773`    		  |
-|Masternode Collateral      | `5,000 CASH`         |Datadir			    | `.cash`			  |
+|Total Suply 			    | `810,000,000 CASH`    |Port 			    | `17773`    		  |
+|Masternode Collateral      | `255,000 CASH`         |Datadir			    | `.cash`			  |
 
 <p align="center"><img src="https://cashback.cash/img/gitblocks.png" /></a></p>
 
@@ -27,14 +27,15 @@ Add nodes
 ```
 # cashback.conf
 
-addnode=104.238.133.126:17773
-addnode=140.82.44.143:17773
-addnode=104.238.134.207:17773
-addnode=140.82.1.119:17773
-addnode=45.32.249.115:17773
-addnode=108.61.96.132:17773
-addnode=45.32.139.101:17773
-addnode=8.9.36.25:17773
+144.217.174.80:17773
+144.217.174.83:17773
+144.217.174.84:17773
+144.217.174.87:17773
+144.217.146.167:17773
+144.217.146.168:17773
+144.217.146.169:17773
+144.217.146.175:17773
+
 ```
 
 Staking
