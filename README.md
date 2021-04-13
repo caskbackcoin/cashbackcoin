@@ -52,6 +52,7 @@ Disable
 # cashback.conf
 staking=0
 ```
+<p align="center"><img src="https://newcashbackcoin.com/img/mining.jpg" /></a></p>
 
 <h3>Licence</h3>
 Caskback is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
