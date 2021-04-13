@@ -1,5 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://cashback.cash/img/logogit.png" alt="Caskback logo" title="Caskback" align="right" />
+<a href="https://newcashbackcoin.com/">
+    <img src="https://newcashbackcoin.com/img/logogit.png" alt="Caskback logo" title="Caskback" align="right" />
 </a>
 
 Caskback (CASH) integration/staging repository
@@ -8,7 +8,7 @@ Caskback (CASH) integration/staging repository
 
 :star: Caskback is an experimental digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Caskback uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Caskback is the name of the open source software which enables the use of this currency.
 
-<p align="center"><a href="https://github.com/cashback-coin/cashback-2.0/releases"><img src="https://cashback.cash/img/wallet.png" /></a></p>
+<p align="center"><a href="https://github.com/cashback-coin/cashback-2.0/releases"><img src="https://newcashbackcoin.com/img/wallet.png" /></a></p>
 <hr>
 
 |Specifications		   		| 					  |						|					  |
@@ -20,7 +20,7 @@ Caskback (CASH) integration/staging repository
 |Total Suply 			    | `810,000,000 CASH`    |Port 			    | `17773`    		  |
 |Masternode Collateral      | `255,000 CASH`         |Datadir			    | `.cash`			  |
 
-<p align="center"><img src="https://cashback.cash/img/gitblocks.png" /></a></p>
+<p align="center"><img src="https://newcashbackcoin.com/img/blocks.jpg" /></a></p>
 
 Add nodes
 ======================
