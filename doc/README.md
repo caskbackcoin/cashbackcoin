@@ -40,7 +40,7 @@ The following are developer notes on how to build Caskback on your native platfo
 
 Development
 ---------------------
-The Caskback repo's [root README](https://github.com/cashback-project/cashback/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Caskback repo's [root README](https://github.com/cashbackcoin/cashbackcoin/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
